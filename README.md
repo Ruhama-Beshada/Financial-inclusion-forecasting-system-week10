@@ -88,6 +88,13 @@ Cleaned and enriched dataset saved to:
 - Engineered **features for forecasting**
 - Prepared **structured time-series data**
 
+ ### Addressed Analytical Questions
+- Compared ACCESS vs USAGE trends
+- Identified growth slowdowns and accelerations
+- Overlaid external events
+- Documented insights for forecasting justification
+
+
 📁 **Output:**
 
 `data/processed/ethiopia_fi_features.xlsx`
